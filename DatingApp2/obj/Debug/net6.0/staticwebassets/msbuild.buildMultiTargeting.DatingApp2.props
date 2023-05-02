@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DatingApp2.props" />
+</Project>
